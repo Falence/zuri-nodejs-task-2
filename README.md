@@ -1,4 +1,4 @@
-###### Zuri Task: NodeJS File System Task
+### Zuri Task: NodeJS File System Task
 **The aim of this task is to test how well you can research. You have learned about NodeJS file system**
 
 1. Create a script file that fetches data from JSON PLACEHOLDER POSTS
